@@ -1,6 +1,7 @@
 
 
-#This will Turn off your CPU Laptops Turbo Mode!! Have fun
+# This will Turn off your CPU Laptops on boot Turbo Mode!! Have fun
+# add to /etc/systemd/system/ - folder
 
 
 
